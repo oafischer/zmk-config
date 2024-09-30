@@ -6,7 +6,6 @@ My ZMK configuration for the BakenekoGO keyboard.
 
 - Split backspace
 - Split right shift
-- 3 layers
-- Control replaces caps lock
-- Double function keys
-- Multimedia and Mac functions on layers
+- 2 layers
+- Right FN-based combinations
+- Mirrored Ctrl-Alt-Super layout
