@@ -50,13 +50,5 @@
         };
     };
 
-    combos {
-        compatible = "zmk,combos";
-
-        combo_bt {
-            timeout-ms = <50>;
-            key-positions = <62>;
-            bindings = <&mo 0>;
-        };
-    };
+    combos { compatible = "zmk,combos"; };
 };
