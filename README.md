@@ -4,8 +4,9 @@ My ZMK configuration for the BakenekoGO keyboard.
 
 ## Main features
 
+- 2 layers
 - Split backspace
 - Split right shift
-- 2 layers
-- Right FN-based combinations
+- Right function key
+- FN-based navigation
 - Mirrored Ctrl-Alt-Super layout
