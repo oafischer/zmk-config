@@ -9,4 +9,3 @@ My ZMK configuration for the BakenekoGO keyboard.
 - Split right shift
 - Right function key
 - FN-based navigation
-- Mirrored Ctrl-Alt-Super layout
