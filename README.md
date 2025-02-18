@@ -6,6 +6,5 @@ My ZMK configuration for the BakenekoGO keyboard.
 
 - 2 layers
 - Split backspace
-- Split right shift
-- Right function key
+- Caps as FN key
 - FN-based navigation
