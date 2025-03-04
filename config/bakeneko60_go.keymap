@@ -42,7 +42,7 @@
 
             bindings = <
 &trans        &kp F1          &kp F2          &kp F3           &kp F4           &kp F5  &kp F6           &kp F7           &kp F8           &kp F9           &kp F10          &kp F11          &kp F12          &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC
-&kp CAPSLOCK  &trans          &kp UP_ARROW    &trans           &trans           &trans  &trans           &trans           &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &rgb_ug RGB_BRI  &rgb_ug RGB_SPI  &rgb_ug RGB_EFF                        &kp DELETE
+&kp CAPSLOCK  &kp PAGE_UP     &kp UP_ARROW    &kp PAGE_DOWN    &trans           &trans  &trans           &trans           &rgb_ug RGB_HUI  &rgb_ug RGB_SAI  &rgb_ug RGB_BRI  &rgb_ug RGB_SPI  &rgb_ug RGB_EFF                        &kp DELETE
 &trans        &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans           &trans  &trans           &rgb_ug RGB_HUD  &rgb_ug RGB_SAD  &rgb_ug RGB_BRD  &rgb_ug RGB_SPD  &rgb_ug RGB_EFR                                         &trans
 &trans                        &kp F16         &kp F17          &kp C_AC_SEARCH  &trans  &trans           &trans           &trans           &kp C_VOL_DN     &kp C_VOL_UP     &kp C_MUTE       &trans                                 &trans
 &trans        &trans                          &trans                                    &rgb_ug RGB_TOG                                                     &trans           &trans           &trans                                 &mo 2
